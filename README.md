@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Kalilinuxmohammad/Kalilinuxmohammad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Mohammad
 
-Here are some ideas to get you started:
+### 🛡️ Cybersecurity Student | 🐧 Linux | 🌐 Networking | 🚩 CTF
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Linux+%26+Networking+Enthusiast;CTF+Learner;Building%2C+Breaking%2C+Learning" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm Mohammad, a cybersecurity student passionate about Linux, networking, ethical hacking, and security.
+
+I'm currently focused on building my skills through hands-on labs, CTF challenges, and practical cybersecurity projects.
+
+```text
+> Learning
+> Building
+> Breaking
+> Analyzing
+> Improving
