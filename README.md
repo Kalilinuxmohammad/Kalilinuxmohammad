@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad
+# 👋 Hi, I'm Mohammad Amin
 
 ### 🛡️ Cybersecurity Student • 🐧 Linux • 🌐 Networking • 🚩 CTF
 
