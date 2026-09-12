@@ -1,0 +1,44 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </radialGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00FF9C"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <circle cx="110" cy="110" r="105" fill="url(#bgGlow)" stroke="#00FF9C" stroke-width="2" opacity="0.9"/>
+
+  <circle cx="110" cy="110" r="95" fill="none" stroke="#00FF9C" stroke-width="1.5"
+          stroke-dasharray="6 10" opacity="0.6">
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 110 110" to="360 110 110" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="110" cy="110" r="102" fill="none" stroke="#00c2ff" stroke-width="1"
+          stroke-dasharray="2 8" opacity="0.5">
+    <animateTransform attributeName="transform" type="rotate"
+      from="360 110 110" to="0 110 110" dur="18s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="110" y="132" font-family="Consolas, 'Fira Code', monospace" font-size="64"
+        font-weight="bold" text-anchor="middle" fill="url(#textGrad)" filter="url(#glow)">
+    M.A
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="2.5s" repeatCount="indefinite"/>
+  </text>
+
+  <rect x="10" y="0" width="200" height="3" fill="#00FF9C" opacity="0.35">
+    <animate attributeName="y" values="10;210;10" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.5;0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
