@@ -4,111 +4,85 @@
 
 <br>
 
-# `MOHAMMAD AMIN`
-
-### `CYBERSECURITY STUDENT` · `LINUX` · `NETWORKING` · `CTF`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=00FF9D&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%3E+SYSTEM.STATUS%3A+ONLINE;%3E+CYBER+ENVIRONMENT%3A+READY;%3E+LINUX+%7C+NETWORKING+%7C+SECURITY+%7C+CTF;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE" alt="System status">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00FF9D&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%5B+SYSTEM+ONLINE+%5D;%5B+CYBERSECURITY+ENVIRONMENT+READY+%5D;%5B+LINUX+%7C+NETWORKING+%7C+SECURITY+%7C+CTF+%5D;%5B+ACCESS+LEVEL%3A+STUDENT+%5D" alt="Cyber Status">
 
 <br>
 
-<a href="https://github.com/Kalilinuxmohammad">
-<img src="https://img.shields.io/github/followers/Kalilinuxmohammad?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=00ff9d&labelColor=050807" alt="GitHub Followers">
-</a>
-
-<a href="https://github.com/Kalilinuxmohammad">
-<img src="https://img.shields.io/github/stars/Kalilinuxmohammad?label=STARS&style=for-the-badge&logo=github&logoColor=white&color=00eaff&labelColor=050807" alt="GitHub Stars">
-</a>
-
-<a href="https://kalilinuxmohammad.github.io">
-<img src="https://img.shields.io/badge/WEB-PRESENCE-00ff9d?style=for-the-badge&logo=googlechrome&logoColor=050807" alt="Website">
-</a>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&labelColor=050807&logo=statuspage&logoColor=00ff9d">
+<img src="https://img.shields.io/badge/ENVIRONMENT-GNU%2FLINUX-00eaff?style=for-the-badge&labelColor=050807&logo=linux&logoColor=00eaff">
+<img src="https://img.shields.io/badge/MODE-LEARNING-ffffff?style=for-the-badge&labelColor=050807&logo=bookstack&logoColor=ffffff">
 
 </div>
 
 ---
 
-## `01 // IDENTITY`
-
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    SYSTEM.IDENTITY                           │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  USER          ::  MOHAMMAD AMIN                             │
-│  ROLE          ::  CYBERSECURITY STUDENT                     │
-│  ENVIRONMENT   ::  GNU/LINUX                                 │
-│  PRIMARY       ::  LINUX / NETWORKING / SECURITY             │
-│  SPECIAL       ::  CTF / ANALYSIS / AUTOMATION               │
-│  STATUS        ::  ONLINE                                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         MA // CYBER OPERATIONS                              │
+├──────────────────────────────────────────────────────────────────────────────┤
+│                                                                              │
+│  USER       ::  MOHAMMAD AMIN                                               │
+│  ROLE       ::  CYBERSECURITY STUDENT                                       │
+│  MISSION    ::  LEARN • BUILD • ANALYZE • IMPROVE                           │
+│  PLATFORM   ::  GNU/LINUX                                                   │
+│  FOCUS      ::  SECURITY / NETWORKING / LINUX / CTF                         │
+│  STATUS     ::  ● ONLINE                                                     │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-> Building strong foundations in Linux, networking and cybersecurity through continuous practice, experimentation and real-world projects.
-
----
-
-## `02 // CYBER.CORE`
+## `// ACCESS.CONTROL`
 
 <table>
 <tr>
-<td width="50%">
-
-### 🐧 `LINUX`
+<td width="50%" valign="top">
 
 ```text
-CLI
-BASH
-FILESYSTEM
-PERMISSIONS
-PROCESSES
-SYSTEM ADMIN
+┌─[ IDENTITY ]────────────────────┐
+
+  USER
+  └── Mohammad Amin
+
+  ROLE
+  └── Cybersecurity Student
+
+  DOMAIN
+  ├── Linux
+  ├── Networking
+  ├── Security
+  └── CTF
+
+  STATE
+  └── ACTIVE
+
+└─────────────────────────────────┘
 ```
 
 </td>
-<td width="50%">
 
-### 🌐 `NETWORKING`
-
-```text
-TCP/IP
-DNS
-ROUTING
-SWITCHING
-TRAFFIC
-NETWORK ANALYSIS
-```
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛡️ `SECURITY`
+<td width="50%" valign="top">
 
 ```text
-RECON
-ENUMERATION
-WEB SECURITY
-ANALYSIS
-SECURITY FUNDAMENTALS
-SAFE TESTING
-```
+┌─[ ENVIRONMENT ]─────────────────┐
 
-</td>
-<td width="50%">
+  OS
+  └── GNU/Linux
 
-### 🚩 `CTF`
+  SHELL
+  └── Bash / CLI
 
-```text
-WEB
-LINUX
-NETWORK
-LOGIC
-ENUMERATION
-PROBLEM SOLVING
+  CODE
+  └── Python
+
+  TOOLS
+  ├── Git
+  ├── Docker
+  └── VS Code
+
+  MODE
+  └── BUILDING
+
+└─────────────────────────────────┘
 ```
 
 </td>
@@ -117,78 +91,159 @@ PROBLEM SOLVING
 
 ---
 
-## `03 // TOOLCHAIN`
+## `// CYBER.CORE`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,html,css,vscode&theme=dark" alt="Technology Stack">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### `01`
+
+```text
+LINUX
+```
+
+`CLI`
+`BASH`
+`FILESYSTEM`
+`PROCESSES`
+`PERMISSIONS`
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+```text
+NETWORK
+```
+
+`TCP/IP`
+`DNS`
+`ROUTING`
+`TRAFFIC`
+`ANALYSIS`
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+```text
+SECURITY
+```
+
+`RECON`
+`ENUMERATION`
+`WEB`
+`ANALYSIS`
+`FUNDAMENTALS`
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+```text
+CTF
+```
+
+`WEB`
+`LINUX`
+`NETWORK`
+`LOGIC`
+`PROBLEM SOLVING`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## `// TOOLCHAIN`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,html,css,vscode&theme=dark" width="90%" alt="Cybersecurity Toolchain">
 
 <br><br>
 
 ```text
-PYTHON  •  BASH  •  GIT  •  GITHUB  •  DOCKER
-LINUX   •  HTML  •  CSS  •  VS CODE
+[ LINUX ]  [ BASH ]  [ PYTHON ]  [ GIT ]  [ GITHUB ]
+[ DOCKER ] [ HTML ]  [ CSS ]     [ VSCODE ]
 ```
 
 </div>
 
 ---
 
-## `04 // CURRENT.MISSION`
+## `// CURRENT.OPERATIONS`
 
 ```text
-[01] ████████████████████  Strengthen Linux fundamentals
-[02] ██████████████████░░  Master networking
-[03] ████████████████░░░░  Build security foundations
-[04] ██████████████░░░░░░  Practice CTF challenges
-[05] █████████████░░░░░░░  Improve Python & automation
-[06] ████████████░░░░░░░░  Build real security projects
-[07] ██████████░░░░░░░░░░  Document the journey
+root@ma-cyber:~# cat current_mission.txt
+
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01]  STRENGTHEN LINUX FUNDAMENTALS                       │
+│        └── CLI / FILESYSTEM / PROCESSES / PERMISSIONS       │
+│                                                             │
+│  [02]  MASTER NETWORKING                                    │
+│        └── TCP/IP / DNS / ROUTING / TRAFFIC                 │
+│                                                             │
+│  [03]  BUILD SECURITY FOUNDATIONS                           │
+│        └── RECON / ENUMERATION / ANALYSIS                   │
+│                                                             │
+│  [04]  PRACTICE CTF                                        │
+│        └── WEB / LINUX / NETWORK / LOGIC                    │
+│                                                             │
+│  [05]  IMPROVE PYTHON                                      │
+│        └── AUTOMATION / TOOLS / SECURITY PROJECTS           │
+│                                                             │
+│  [06]  BUILD REAL PROJECTS                                 │
+│        └── TURN KNOWLEDGE INTO SYSTEMS                      │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `05 // OPERATIONS`
-
-<table>
-<tr>
-<th>OP</th>
-<th>TARGET</th>
-<th>STATUS</th>
-</tr>
-
-<tr>
-<td><code>OP-01</code></td>
-<td><a href="https://kalilinuxmohammad.github.io">WEB PRESENCE</a></td>
-<td>🟢 ONLINE</td>
-</tr>
-
-<tr>
-<td><code>OP-02</code></td>
-<td><a href="https://github.com/Kalilinuxmohammad">GITHUB PROFILE</a></td>
-<td>🟢 ACTIVE</td>
-</tr>
-
-<tr>
-<td><code>OP-03</code></td>
-<td>CYBERSECURITY LAB</td>
-<td>🟡 BUILDING</td>
-</tr>
-
-<tr>
-<td><code>OP-04</code></td>
-<td>CTF PRACTICE</td>
-<td>🟡 ACTIVE</td>
-</tr>
-</table>
-
----
-
-## `06 // GITHUB.TELEMETRY`
+## `// SKILL.PROGRESSION`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalilinuxmohammad&show_icons=true&hide_border=true&bg_color=050807&title_color=00ff9d&text_color=b9ffe1&icon_color=00eaff&include_all_commits=true&count_private=true" width="49%" alt="GitHub Statistics">
+```text
+LINUX
+████████████████████████░░░░  CORE
+
+NETWORKING
+██████████████████████░░░░░░  BUILDING
+
+PYTHON
+███████████████████░░░░░░░░░  DEVELOPING
+
+SECURITY
+█████████████████░░░░░░░░░░░  DEVELOPING
+
+CTF
+███████████████░░░░░░░░░░░░░  PRACTICING
+```
+
+</div>
+
+---
+
+## `// LIVE.TELEMETRY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Kalilinuxmohammad&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050807&title_color=00ff9d&text_color=b9ffe1&icon_color=00eaff" width="49%" alt="GitHub Statistics">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalilinuxmohammad&hide_border=true&background=050807&ring=00ff9d&fire=00eaff&currStreakLabel=00ff9d&sideLabels=b9ffe1&dates=6b8f7f" width="49%" alt="GitHub Streak">
 
@@ -198,73 +253,88 @@ LINUX   •  HTML  •  CSS  •  VS CODE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=050807&color=00ff9d&line=00eaff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=050807&color=00ff9d&line=00eaff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity">
 
 </div>
 
 ---
 
-## `07 // CONTRIBUTION.PROTOCOL`
-
-<div align="center">
+## `// OPERATION.LOG`
 
 ```text
-             ┌─────────────────────────────────────┐
-             │       CONTRIBUTION PROTOCOL         │
-             ├─────────────────────────────────────┤
-             │                                     │
-             │   CODE        →    BUILD            │
-             │   BUILD       →    TEST             │
-             │   TEST        →    ANALYZE          │
-             │   ANALYZE     →    IMPROVE          │
-             │   IMPROVE     →    REPEAT           │
-             │                                     │
-             └─────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## `08 // SECURITY.MINDSET`
-
-> **Learn the system. Understand the system. Build with it. Break it safely. Analyze the result. Improve the system.**
-
-```text
-RECON       → Understand the environment
-ENUM        → Discover what exists
-ANALYZE     → Understand the behavior
-BUILD       → Create something useful
-TEST        → Verify the result
-DOCUMENT    → Preserve the knowledge
-REPEAT      → Become better
+┌──────────────────────────────────────────────────────────────────────┐
+│                         OPERATION LOG                                │
+├──────────┬───────────────────────────────────────────┬───────────────┤
+│  CODE    │  OPERATION                                │  STATE        │
+├──────────┼───────────────────────────────────────────┼───────────────┤
+│  OP-001  │  Linux Fundamentals                       │  ACTIVE       │
+│  OP-002  │  Networking                               │  ACTIVE       │
+│  OP-003  │  Cybersecurity Foundations                │  ACTIVE       │
+│  OP-004  │  CTF Training                             │  ACTIVE       │
+│  OP-005  │  Python Automation                         │  BUILDING     │
+│  OP-006  │  Security Projects                        │  BUILDING     │
+│  OP-007  │  Documentation                             │  CONTINUOUS   │
+└──────────┴───────────────────────────────────────────┴───────────────┘
 ```
 
 ---
 
-## `09 // CONNECT`
+## `// WEB.PRESENCE`
 
 <div align="center">
-
-<a href="https://github.com/Kalilinuxmohammad">
-<img src="https://img.shields.io/badge/GITHUB-050807?style=for-the-badge&logo=github&logoColor=00ff9d" alt="GitHub">
-</a>
 
 <a href="https://kalilinuxmohammad.github.io">
-<img src="https://img.shields.io/badge/WEBSITE-050807?style=for-the-badge&logo=googlechrome&logoColor=00eaff" alt="Website">
+<img src="https://img.shields.io/badge/WEB-PORTAL-00ff9d?style=for-the-badge&labelColor=050807&logo=googlechrome&logoColor=00ff9d">
+</a>
+
+<a href="https://github.com/Kalilinuxmohammad">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-00eaff?style=for-the-badge&labelColor=050807&logo=github&logoColor=00eaff">
 </a>
 
 <br><br>
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│       LEARN  →  BUILD  →  ANALYZE  →  IMPROVE          │
-│                                                         │
-│                  SYSTEM.STATUS: ONLINE                 │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+https://kalilinuxmohammad.github.io
+github.com/Kalilinuxmohammad
 ```
+
+</div>
+
+---
+
+## `// SECURITY.PHILOSOPHY`
+
+<div align="center">
+
+```text
+                         ┌───────────────┐
+                         │   UNDERSTAND  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    ANALYZE    │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │     BUILD     │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │  TEST SAFELY  │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │    IMPROVE    │
+                         └───────┬───────┘
+                                 │
+                                 └──────────────► REPEAT
+```
+
+### `Understand the system. Build it. Test it safely. Learn from it.`
 
 </div>
 
@@ -272,8 +342,20 @@ REPEAT      → Become better
 
 <div align="center">
 
-### `// END OF TRANSMISSION`
+```text
+┌───────────────────────────────────────────────────────────────┐
+│                                                               │
+│                  SYSTEM STATUS : ONLINE                      │
+│                  ACCESS LEVEL  : STUDENT                     │
+│                  MODE          : BUILDING                    │
+│                                                               │
+│              LEARN → BUILD → ANALYZE → IMPROVE               │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=90&section=footer&animation=twinkling" width="100%" alt="Footer">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9d&height=100&section=footer&animation=twinkling" width="100%" alt="Cyber Footer">
 
 </div>
