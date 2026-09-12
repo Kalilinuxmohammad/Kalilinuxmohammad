@@ -1,382 +1,348 @@
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    M O H A M M A D   A M I N                  -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=520&height=35&lines=%5B+CONNECTION+ESTABLISHED+%5D;%5B+IDENTITY+VERIFIED+%5D;%5B+CYBER+LAB+ONLINE+%5D"/>
-
-# `MOHAMMAD AMIN`
-
-### `CYBERSECURITY  /  LINUX  /  NETWORKING  /  CTF`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,kali,bash,python,docker,git,github&theme=dark" />
-
-<br><br>
-
-`SYSTEM ONLINE`　`LAB ACTIVE`　`SECURITY MODE`
-
-</div>
-
----
-
-<div align="center">
-
-## `IDENTITY // 001`
-
-</div>
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-# Who am I?
-
-I'm **Mohammad Amin** — a cybersecurity student exploring systems from the inside out.
-
-I don't want to simply memorize tools.
-
-I want to understand:
-
-**how systems work,
-how networks communicate,
-where security breaks,
-and how those weaknesses can be understood and secured.**
-
-My learning process is intentionally hands-on.
-
-<br>
-
-> `LEARN` → `BUILD` → `BREAK` → `ANALYZE` → `IMPROVE`
-
-</td>
-
-<td width="45%" valign="top">
-
-### `IDENTITY CORE`
-
-```text
-┌────────────────────────────┐
-│                            │
-│  USER       Mohammad Amin  │
-│  FIELD      Cybersecurity  │
-│  ENV        Linux          │
-│  NETWORK    TCP/IP         │
-│  MODE       Learning       │
-│  LAB        Active         │
-│                            │
-└────────────────────────────┘
-```
-
-<br>
-
-`STATUS`
-
-**● ONLINE**
-
-`CURRENT MODE`
-
-**RESEARCH / LEARN**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `CORE // 002`
-
-### Four directions. One system.
-
-<br>
-
-|               |               |                |                 |
-| :-----------: | :-----------: | :------------: | :-------------: |
-|      🛡️      |       🐧      |       🌐       |        🚩       |
-|  **SECURITY** |   **LINUX**   | **NETWORKING** |     **CTF**     |
-|  Web Security | Linux Systems |     TCP/IP     |   Enumeration   |
-|     Recon     |      Bash     |      Cisco     |     Analysis    |
-| Security Labs |      CLI      |    Wireshark   | Problem Solving |
-
-</div>
-
----
-
-<div align="center">
-
-## `ARSENAL // 003`
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `OPERATING SYSTEMS`
-
-`Linux`
-
-`Kali Linux`
-
-`Bash`
-
-`CLI`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `NETWORK`
-
-`TCP/IP`
-
-`Cisco`
-
-`Wireshark`
-
-`Network Analysis`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `SECURITY`
-
-`Nmap`
-
-`Reconnaissance`
-
-`Web Security`
-
-`Security Labs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `DEVELOPMENT`
-
-`Python`
-
-`Git`
-
-`GitHub`
-
-`Docker`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `LAB // 004`
-
-### CURRENT OPERATIONS
-
-</div>
-
-```text
-                    ┌───────────────────────┐
-                    │      CYBER LAB        │
-                    │        ONLINE         │
-                    └───────────┬───────────┘
-                                │
-               ┌────────────────┼────────────────┐
-               │                │                │
-               ▼                ▼                ▼
-          ┌──────────┐     ┌──────────┐    ┌──────────┐
-          │  LINUX   │     │ NETWORK  │    │ SECURITY │
-          │   LAB    │     │  ANALYSIS│    │  RESEARCH│
-          └──────────┘     └──────────┘    └──────────┘
-               │                │                │
-               └────────────────┼────────────────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │     CTF     │
-                         │  TRAINING   │
-                         └─────────────┘
-```
-
-<br>
-
-<div align="center">
-
-`RECON`　→　`ENUMERATION`　→　`ANALYSIS`　→　`EXPLOITATION`　→　`UNDERSTANDING`
-
-</div>
-
----
-
-<div align="center">
-
-## `OPERATIONS // 005`
-
-</div>
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### `01`
-
-**LINUX LAB**
-
-Understanding the system beneath the interface.
-
-`CLI` · `BASH` · `PERMISSIONS`
-
-</td>
-
-<td width="33%" align="center">
-
-### `02`
-
-**NETWORK LAB**
-
-Understanding how machines communicate.
-
-`TCP/IP` · `CISCO` · `WIRESHARK`
-
-</td>
-
-<td width="33%" align="center">
-
-### `03`
-
-**SECURITY LAB**
-
-Learning by investigation and experimentation.
-
-`RECON` · `WEBSEC` · `CTF`
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## `ORIGIN // 006`
-
-<br>
-
-### 🎓 `CYBERSECURITY STUDENT`
-
-**Ravin Academy**
-
-`Linux` · `Networking` · `Cybersecurity` · `Practical Labs`
-
-<br>
-
-<sub>Education affiliation — not the primary identity of this profile.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `PROJECTS // 007`
-
-### Things I build belong here.
-
-<br>
-
-<a href="https://github.com/Kalilinuxmohammad/Kalilinuxmohammad.github.io">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalilinuxmohammad&repo=Kalilinuxmohammad.github.io&hide_border=true&theme=github_dark&bg_color=050807&title_color=00ff88&icon_color=00ff88&text_color=d7e5df"/>
-
-</a>
-
-  
-
-<a href="https://github.com/Kalilinuxmohammad/Kalilinuxmohammad">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Kalilinuxmohammad&repo=Kalilinuxmohammad&hide_border=true&theme=github_dark&bg_color=050807&title_color=00ff88&icon_color=00ff88&text_color=d7e5df"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `TELEMETRY // 008`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kalilinuxmohammad&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&bg_color=050807&title_color=00ff88&icon_color=00ff88&text_color=d7e5df"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=050807&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="94%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `PHILOSOPHY // 009`
-
-<br>
-
-# Don't just use the tool.
-
-# Understand the system.
-
-# Understand the weakness.
-
-# Understand how to secure it.
-
-<br>
-
-`CURIOSITY`　·　`EXPERIMENTATION`　·　`ANALYSIS`　·　`PERSISTENCE`
-
-</div>
-
----
-
-<div align="center">
-
-## `UPLINK // 010`
-
-<a href="https://github.com/Kalilinuxmohammad">
-<img src="https://img.shields.io/badge/GITHUB-050807?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a>
-
-<a href="https://kalilinuxmohammad.github.io/">
-<img src="https://img.shields.io/badge/PORTFOLIO-050807?style=for-the-badge&logo=google-chrome&logoColor=00ff88"/>
-</a>
-
-<br><br>
-
-```text
-╭──────────────────────────────────────────────────╮
-│                                                  │
-│              CONNECTION TERMINATED              │
-│                                                  │
-│          THE LAB NEVER REALLY CLOSES.            │
-│                                                  │
-╰──────────────────────────────────────────────────╯
-```
-
-<br>
-
-`MOHAMMAD AMIN`　//　`CYBERSECURITY STUDENT`
-
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 650">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop stop-color="#020305"/>
+<stop offset=".5" stop-color="#06110e"/>
+<stop offset="1" stop-color="#010202"/>
+</linearGradient>
+
+<radialGradient id="glow">
+<stop stop-color="#00ffb3" stop-opacity=".36"/>
+<stop offset=".55" stop-color="#00ffb3" stop-opacity=".05"/>
+<stop offset="1" stop-color="#00ffb3" stop-opacity="0"/>
+</radialGradient>
+
+<linearGradient id="electric">
+<stop stop-color="#00ffb3"/>
+<stop offset=".55" stop-color="#62ffe5"/>
+<stop offset="1" stop-color="#54ddff"/>
+</linearGradient>
+
+<pattern id="grid"
+ width="40"
+ height="40"
+ patternUnits="userSpaceOnUse">
+
+<path
+ d="M40 0H0V40"
+ fill="none"
+ stroke="#8affdf"
+ stroke-opacity=".045"/>
+
+</pattern>
+
+<filter id="blur">
+<feGaussianBlur stdDeviation="15"/>
+</filter>
+
+</defs>
+
+<rect
+ width="1600"
+ height="650"
+ rx="32"
+ fill="url(#bg)"/>
+
+<rect
+ x="18"
+ y="18"
+ width="1564"
+ height="614"
+ rx="26"
+ fill="url(#grid)"
+ stroke="#8affdf"
+ stroke-opacity=".13"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="320"
+ fill="url(#glow)"
+ filter="url(#blur)"/>
+
+<!-- CORE RINGS -->
+
+<g
+ fill="none"
+ stroke="url(#electric)">
+
+<circle
+ cx="800"
+ cy="320"
+ r="230"
+ stroke-opacity=".12"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="185"
+ stroke-opacity=".2"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="140"
+ stroke-opacity=".32"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="100"
+ stroke-opacity=".5"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="260"
+ stroke-opacity=".28"
+ stroke-dasharray="3 16">
+
+<animateTransform
+ attributeName="transform"
+ type="rotate"
+ from="0 800 320"
+ to="360 800 320"
+ dur="28s"
+ repeatCount="indefinite"/>
+
+</circle>
+
+<path
+ d="M700 320H470V210H180
+ M900 320h230V210h210
+ M800 220V135
+ M800 420v90"
+ stroke-opacity=".55"/>
+
+</g>
+
+<!-- NODES -->
+
+<g fill="#00ffb3">
+
+<circle cx="180" cy="210" r="5"/>
+<circle cx="1420" cy="210" r="5"/>
+<circle cx="800" cy="135" r="5"/>
+<circle cx="800" cy="510" r="5"/>
+
+</g>
+
+<!-- HEADER -->
+
+<g font-family="monospace">
+
+<text
+ x="70"
+ y="78"
+ fill="#00ffb3"
+ font-size="13"
+ letter-spacing="5">
+MA // CYBER IDENTITY
+</text>
+
+<text
+ x="1530"
+ y="78"
+ text-anchor="end"
+ fill="#718d85"
+ font-size="11"
+ letter-spacing="3">
+NODE 0001 / ONLINE
+</text>
+
+<text
+ x="1530"
+ y="104"
+ text-anchor="end"
+ fill="#00ffb3"
+ font-size="11">
+● SIGNAL STABLE
+</text>
+
+</g>
+
+<!-- LEFT -->
+
+<g font-family="monospace">
+
+<text
+ x="120"
+ y="198"
+ fill="#00ffb3"
+ font-size="12"
+ letter-spacing="4">
+SECURITY
+</text>
+
+<text
+ x="120"
+ y="223"
+ fill="#67847c"
+ font-size="10">
+WEB / RECON / LABS
+</text>
+
+<text
+ x="120"
+ y="390"
+ fill="#00ffb3"
+ font-size="12"
+ letter-spacing="4">
+LINUX
+</text>
+
+<text
+ x="120"
+ y="415"
+ fill="#67847c"
+ font-size="10">
+KALI / BASH / CLI
+</text>
+
+</g>
+
+<!-- RIGHT -->
+
+<g font-family="monospace">
+
+<text
+ x="1480"
+ y="198"
+ text-anchor="end"
+ fill="#00ffb3"
+ font-size="12"
+ letter-spacing="4">
+NETWORK
+</text>
+
+<text
+ x="1480"
+ y="223"
+ text-anchor="end"
+ fill="#67847c"
+ font-size="10">
+TCP/IP / CISCO / TRAFFIC
+</text>
+
+<text
+ x="1480"
+ y="390"
+ text-anchor="end"
+ fill="#00ffb3"
+ font-size="12"
+ letter-spacing="4">
+CTF
+</text>
+
+<text
+ x="1480"
+ y="415"
+ text-anchor="end"
+ fill="#67847c"
+ font-size="10">
+ENUMERATION / ANALYSIS
+</text>
+
+</g>
+
+<!-- CENTRAL CORE -->
+
+<circle
+ cx="800"
+ cy="320"
+ r="82"
+ fill="#010504"
+ stroke="url(#electric)"
+ stroke-width="2"/>
+
+<circle
+ cx="800"
+ cy="320"
+ r="67"
+ fill="none"
+ stroke="#00ffb3"
+ stroke-opacity=".25"
+ stroke-dasharray="3 9">
+
+<animateTransform
+ attributeName="transform"
+ type="rotate"
+ from="0 800 320"
+ to="360 800 320"
+ dur="10s"
+ repeatCount="indefinite"/>
+
+</circle>
+
+<g
+ font-family="monospace"
+ text-anchor="middle">
+
+<text
+ x="800"
+ y="337"
+ fill="#eafff7"
+ font-size="82"
+ font-weight="700"
+ letter-spacing="8">
+MA
+</text>
+
+<text
+ x="800"
+ y="372"
+ fill="#00ffb3"
+ font-size="10"
+ letter-spacing="5">
+MOHAMMAD AMIN
+</text>
+
+</g>
+
+<!-- FOOTER -->
+
+<g
+ font-family="monospace"
+ text-anchor="middle">
+
+<text
+ x="800"
+ y="566"
+ fill="#d8fff3"
+ font-size="12"
+ letter-spacing="5">
+CYBERSECURITY STUDENT
+</text>
+
+<text
+ x="800"
+ y="593"
+ fill="#6b8880"
+ font-size="10"
+ letter-spacing="3">
+LEARN → BUILD → BREAK → ANALYZE → IMPROVE
+</text>
+
+</g>
+
+<!-- SCANLINE -->
+
+<rect
+ x="30"
+ y="30"
+ width="1540"
+ height="2"
+ fill="#00ffb3"
+ opacity=".3">
+
+<animate
+ attributeName="y"
+ values="30;610;30"
+ dur="8s"
+ repeatCount="indefinite"/>
+
+</rect>
+
+</svg>
