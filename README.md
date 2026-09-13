@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./ma-cyber-core.svg" width="100%" alt="MA Cyber Core">
-
+<img src="./ma-cyber-core.svg" width="100%" alt="MA Cyber Identity">
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+STATUS%3A+ONLINE;%3E+CYBERSECURITY+ENVIRONMENT+READY;%3E+LINUX+%7C+NETWORKING+%7C+SECURITY+%7C+CTF;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE" alt="Typing Animation">
