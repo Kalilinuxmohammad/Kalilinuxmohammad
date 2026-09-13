@@ -1,24 +1,14 @@
 <div align="center">
 
-<!-- ========================================================= -->
-
-<!--                 MA CYBER CORE // IDENTITY                 -->
-
-<!--          KEEP THIS LOGO FILE EXACTLY AS IT IS             -->
-
-<!-- ========================================================= -->
-
 <img src="./ma-cyber-core.svg" width="100%" alt="MA Cyber Identity">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=17&duration=1800&pause=450&color=00FF9D&center=true&vCenter=true&width=1000&lines=%5B+BOOTING+MA.CYBER.CORE+%5D;%3E+INITIALIZING+CYBERSECURITY+ENVIRONMENT...;%3E+LOADING+LINUX+SUBSYSTEM...;%3E+MAPPING+NETWORK+PROTOCOLS...;%3E+ANALYZING+SECURITY+CONCEPTS...;%3E+CTF+MODE%3A+READY;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Cyber Boot Sequence">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+STATUS%3A+ONLINE;%3E+CYBERSECURITY+ENVIRONMENT+READY;%3E+LINUX+%7C+NETWORKING+%7C+SECURITY+%7C+CTF;%3E+OBSERVE+%E2%86%92+QUESTION+%E2%86%92+EXPERIMENT+%E2%86%92+ANALYZE;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+IMPROVE" alt="Cyber Terminal">
 
-<br>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF9D,50:00E5FF,100:7C3AED&height=3&section=header" width="100%">
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:071a17,100:00110d&height=3&section=header" width="100%">
 
 # `MOHAMMAD AMIN`
 
@@ -26,187 +16,90 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/◉_SYSTEM-ONLINE-00FF9D?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/⌁_SIGNAL-ACTIVE-00E5FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/⌬_MODE-LEARNING-7C3AED?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/⚡_CORE-CYBER-39FF14?style=for-the-badge&labelColor=050505">
-
-<br><br>
-
-> **I don't just want to use systems.**
->
-> **I want to understand how they think, communicate, fail — and survive.**
+> **I don't just want to use technology.**
+> **I want to understand what happens underneath it.**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:00E5FF,100:00FF9D&height=2&section=footer" width="100%">
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9D?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/MODE-LEARNING-00E5FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-7C3AED?style=for-the-badge">
+<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-39FF14?style=for-the-badge&logo=kalilinux&logoColor=white">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00110d,50:00ff9d,100:00110d&height=2&section=footer" width="100%">
 
 </div>
 
 ---
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                     M A   //   C Y B E R                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   IDENTITY        :: MOHAMMAD AMIN                              ║
-║   CLASS           :: CYBERSECURITY STUDENT                      ║
-║   PRIMARY DOMAIN  :: LINUX / NETWORKING / SECURITY              ║
-║   PRACTICE        :: LABS / CTF / PROJECTS / RESEARCH            ║
-║   OPERATING MODE  :: LEARN → BUILD → BREAK → ANALYZE             ║
-║   CURRENT STATE   :: ONLINE                                      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 # `01 // SYSTEM.IDENTITY`
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-## `WHO.IS.MOHAMMAD`
+## `WHO.AM.I`
 
-I'm **Mohammad Amin**, a cybersecurity student building my technical foundation through hands-on learning.
+```text
+NAME        :: MOHAMMAD AMIN
+ROLE        :: CYBERSECURITY STUDENT
+DOMAIN      :: LINUX / NETWORKING / SECURITY
+PRACTICE    :: CTF / LABS / PROJECTS
+MINDSET     :: CURIOSITY > EXPERIMENT > ANALYSIS
+STATUS      :: LEARNING
+```
 
-My path is centered around one simple idea:
+I'm Mohammad Amin — a cybersecurity student focused on understanding systems from the inside out.
 
-> **Don't memorize the command. Understand the system behind the command.**
+I learn by doing:
 
-I enjoy going underneath the surface — exploring Linux, understanding networks, analyzing security concepts, solving CTF challenges, building small tools, and turning theory into practical experiments.
+**observe → investigate → experiment → break safely → analyze → rebuild**
 
-I'm still learning.
+My interests revolve around:
 
-And that's exactly the point.
-
-Because cybersecurity is not a destination where you suddenly become an expert.
-
-It's a continuous cycle of:
-
-`DISCOVER → EXPERIMENT → FAIL → ANALYZE → UNDERSTAND → IMPROVE`
+* Linux and operating systems
+* Computer networking
+* Cybersecurity fundamentals
+* Web security
+* Reconnaissance
+* Security labs
+* CTF challenges
+* Python and automation
+* Practical system analysis
 
 </td>
 
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-## `PERSONAL.CORE`
+## `PERSONAL.INTRO`
 
 ```text
-┌───────────────────────────────┐
-│                               │
-│   CURIOSITY   ████████████ 99%│
-│   PRACTICE    ███████████  94%│
-│   ANALYSIS    ██████████   91%│
-│   PATIENCE    █████████    87%│
-│   EXPERIENCE  ██████       61%│
-│                               │
-│   STATUS :: EVOLVING          │
-│                               │
-└───────────────────────────────┘
+┌─────────────────────────────────────┐
+│                                     │
+│  I DON'T JUST WANT TO KNOW          │
+│  WHICH COMMAND WORKS.               │
+│                                     │
+│  I WANT TO KNOW                     │
+│  WHY IT WORKS.                      │
+│                                     │
+│  I DON'T JUST WANT TO FIND          │
+│  THE BUG.                            │
+│                                     │
+│  I WANT TO UNDERSTAND               │
+│  WHY THE BUG EXISTS.                │
+│                                     │
+└─────────────────────────────────────┘
 ```
-
-### `MINDSET`
-
-**Question everything.**
 
 ### `MISSION`
 
-**Understand deeply.**
+Build real understanding through real practice.
 
-### `RULE`
+### `CORE`
 
-**Build before claiming.**
-
-</td>
-</tr>
-</table>
-
----
-
-# `02 // CYBER.IDENTITY`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+IDENTITY%3A+CYBERSECURITY+STUDENT;%3E+MINDSET%3A+ANALYTICAL;%3E+ENVIRONMENT%3A+LINUX;%3E+MISSION%3A+UNDERSTAND+SYSTEMS" alt="Cyber Identity">
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### `01`
-
-## 🐧
-
-### `LINUX`
-
-`SYSTEMS`
-
-`SHELL`
-
-`PROCESSES`
-
-`PERMISSIONS`
-
-</td>
-
-<td align="center" width="25%">
-
-### `02`
-
-## 🌐
-
-### `NETWORKING`
-
-`TCP/IP`
-
-`PACKETS`
-
-`ROUTING`
-
-`PROTOCOLS`
-
-</td>
-
-<td align="center" width="25%">
-
-### `03`
-
-## 🛡️
-
-### `SECURITY`
-
-`RECON`
-
-`WEB`
-
-`ANALYSIS`
-
-`LABS`
-
-</td>
-
-<td align="center" width="25%">
-
-### `04`
-
-## 🚩
-
-### `CTF`
-
-`ENUMERATION`
-
-`LOGIC`
-
-`EXPLOITATION`
-
-`PROBLEM SOLVING`
+`LEARN` → `BUILD` → `BREAK` → `ANALYZE` → `IMPROVE`
 
 </td>
 </tr>
@@ -214,45 +107,106 @@ It's a continuous cycle of:
 
 ---
 
-# `03 // RAVIN.ACADEMY`
+# `02 // RAVIN.ACADEMY`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2200&pause=700&color=00FF9D&center=true&vCenter=true&width=800&lines=RAVIN+ACADEMY;%3E+CYBERSECURITY+STUDENT;%3E+LEARNING+%7C+PRACTICE+%7C+LABS+%7C+GROWTH" alt="Ravin Academy">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=RAVIN+ACADEMY;%3E+CYBERSECURITY+STUDENT;%3E+LEARNING+%7C+PRACTICE+%7C+LABS+%7C+GROWTH" alt="Ravin Academy">
 
 <br>
 
-`ACADEMIC ENVIRONMENT` • `CYBERSECURITY` • `HANDS-ON LEARNING`
+### `CYBERSECURITY STUDENT`
+
+`LEARNING` • `PRACTICE` • `LABS` • `GROWTH`
 
 </div>
 
-> 🎓 **I'm currently a student at Ravin Academy**, developing my cybersecurity foundations through structured learning, technical practice, and hands-on labs.
+> 🎓 I'm currently a **student at Ravin Academy**, developing my technical foundations through structured learning, practical exercises, and hands-on labs.
 
-My focus is on turning theoretical knowledge into practical understanding.
+My goal is not simply to memorize commands or collect technologies.
 
-**Learn → Practice → Experiment → Analyze → Improve**
-
----
-
-# `04 // KNOWLEDGE.MATRIX`
-
-<div align="center">
-
-| DOMAIN                | CURRENT FOCUS                                                  |   STATUS   |
-| :-------------------- | :------------------------------------------------------------- | :--------: |
-| 🐧 **Linux**          | Shell • Filesystems • Processes • Permissions • Administration |  `ACTIVE`  |
-| 🌐 **Networking**     | TCP/IP • DNS • Routing • Switching • Packets                   |  `ACTIVE`  |
-| 🛡️ **Cybersecurity** | Security Fundamentals • Recon • Web Security • Analysis        |  `ACTIVE`  |
-| 🚩 **CTF**            | Enumeration • Web • Linux • Logic • Problem Solving            |  `ACTIVE`  |
-| 🐍 **Python**         | Programming • Automation • Security Utilities                  | `BUILDING` |
-| 🐳 **Docker**         | Containers • Environments • Deployment Concepts                | `LEARNING` |
-| 🔬 **Research**       | Technical Exploration • Experiments • Documentation            | `EVOLVING` |
-
-</div>
+The goal is to understand the technology deeply enough to **build with it, troubleshoot it, analyze it, and secure it.**
 
 ---
 
-# `05 // TECH.ARSENAL`
+# `03 // CYBER.DNA`
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🐧
+
+## `LINUX`
+
+```text
+Shell
+Processes
+Permissions
+Services
+Filesystems
+Administration
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+## `NETWORKING`
+
+```text
+TCP/IP
+Routing
+Switching
+DNS
+Packets
+Traffic
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛡️
+
+## `SECURITY`
+
+```text
+Web Security
+Recon
+Enumeration
+Analysis
+Security Labs
+```
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚩
+
+## `CTF`
+
+```text
+Enumeration
+Web
+Linux
+Networking
+Logic
+Problem Solving
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `04 // TECH.ARSENAL`
 
 <div align="center">
 
@@ -262,310 +216,197 @@ My focus is on turning theoretical knowledge into practical understanding.
 
 <br><br>
 
-### `LANGUAGES`
+### `LANGUAGES & AUTOMATION`
 
 <img src="https://skillicons.dev/icons?i=python,bash&theme=dark">
 
 <br><br>
 
-### `DEVELOPMENT & INFRASTRUCTURE`
+### `DEVELOPMENT`
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark">
 
 <br><br>
 
-### `SECURITY TOOLCHAIN`
+### `SECURITY TOOLING`
 
-<img src="https://img.shields.io/badge/NMAP-00FF9D?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/WIRESHARK-00E5FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/BASH-39FF14?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/KALI_LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=050505">
+<img src="https://img.shields.io/badge/Nmap-00FF9D?style=for-the-badge">
+<img src="https://img.shields.io/badge/Wireshark-00E5FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Bash-39FF14?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white">
 
 </div>
 
 ---
 
-# `06 // CYBER.MISSION.CONTROL`
+# `05 // CURRENTLY.IN.LAB`
 
 ```text
-╔══════════════════════════════════════════════════════════════════╗
-║                    C Y B E R   M I S S I O N                   ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  [01] UNDERSTAND                                                ║
-║       └─ Learn how systems actually work                         ║
-║                                                                  ║
-║  [02] EXPERIMENT                                                 ║
-║       └─ Turn theory into controlled practical work             ║
-║                                                                  ║
-║  [03] ANALYZE                                                    ║
-║       └─ Observe behavior instead of guessing                    ║
-║                                                                  ║
-║  [04] BREAK                                                      ║
-║       └─ Test systems safely inside controlled environments      ║
-║                                                                  ║
-║  [05] REBUILD                                                    ║
-║       └─ Fix weaknesses and improve understanding                 ║
-║                                                                  ║
-║  [06] DOCUMENT                                                   ║
-║       └─ Convert every experiment into knowledge                 ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌──────────────────────────────────────────────────────────────┐
+│                    ACTIVE LEARNING MODULES                   │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [01] LINUX                                                   │
+│       └─ Command line / system fundamentals / administration │
+│                                                              │
+│  [02] NETWORKING                                              │
+│       └─ Protocols / traffic / infrastructure / analysis     │
+│                                                              │
+│  [03] CYBERSECURITY                                           │
+│       └─ Security concepts / labs / reconnaissance           │
+│                                                              │
+│  [04] PYTHON                                                  │
+│       └─ Automation / scripting / security utilities         │
+│                                                              │
+│  [05] CTF                                                     │
+│       └─ Enumeration / web / Linux / networking              │
+│                                                              │
+│  [06] PROJECTS                                                │
+│       └─ Turning concepts into working systems                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `07 // LEARNING.PROTOCOL`
+# `06 // THE.SECURITY.MINDSET`
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=1500&pause=400&color=39FF14&center=true&vCenter=true&width=1000&lines=OBSERVE;%3E+QUESTION;%3E+RESEARCH;%3E+EXPERIMENT;%3E+BREAK+SAFELY;%3E+ANALYZE;%3E+REBUILD;%3E+IMPROVE" alt="Learning Protocol">
+|     `01`    |     `02`     |      `03`      |    `04`   |     `05`    |    `06`   |
+| :---------: | :----------: | :------------: | :-------: | :---------: | :-------: |
+|     👁️     |       ❓      |       🧪       |     💥    |      🔬     |    🛠️    |
+| **OBSERVE** | **QUESTION** | **EXPERIMENT** | **BREAK** | **ANALYZE** | **BUILD** |
+
+</div>
+
+### `THINK.DEEP`
+
+Don't memorize commands.
+
+**Understand why they work.**
+
+### `BUILD.REAL`
+
+Theory becomes valuable when it survives practical testing.
+
+### `BREAK.SAFELY`
+
+Controlled failure is not the enemy.
+
+It is one of the fastest ways to understand a system.
+
+### `IMPROVE`
+
+Every failed experiment should leave you with a better mental model.
+
+---
+
+# `07 // LEARNING.ENGINE`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=1800&pause=500&color=39FF14&center=true&vCenter=true&width=850&lines=01+DISCOVER+%E2%86%92+02+DIG+%E2%86%92+03+BREAK+%E2%86%92+04+ANALYZE+%E2%86%92+05+BUILD;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE" alt="Learning Engine">
 
 </div>
 
 ```text
-                  ┌───────────────────┐
-                  │     OBSERVE       │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │     QUESTION      │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │     RESEARCH      │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │    EXPERIMENT     │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │   BREAK SAFELY    │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      ANALYZE      │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      REBUILD      │
-                  └─────────┬─────────┘
-                            ↓
-                  ┌───────────────────┐
-                  │      IMPROVE      │
-                  └───────────────────┘
+                    ┌──────────────┐
+                    │   DISCOVER   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │      DIG     │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │     BREAK    │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │    ANALYZE   │
+                    └──────┬───────┘
+                           │
+                           ▼
+                    ┌──────────────┐
+                    │     BUILD    │
+                    └──────────────┘
 ```
 
 ---
 
-# `08 // ACTIVE.LABS`
+# `08 // PROJECT.ZONE`
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-## `🐧 LINUX.LAB`
+## 🐧 `LINUX.LAB`
 
-Exploring Linux from the command line down to system behavior.
-
-**Focus**
-
-`Shell`
-
-`Processes`
-
-`Permissions`
-
-`Filesystems`
-
-`Services`
-
-`System Administration`
+System administration, shell experimentation, permissions, processes, services and Linux fundamentals.
 
 </td>
 
 <td width="50%" valign="top">
 
-## `🌐 NETWORK.LAB`
+## 🌐 `NETWORK.LAB`
 
-Understanding how machines communicate and how data travels.
-
-**Focus**
-
-`TCP/IP`
-
-`DNS`
-
-`Routing`
-
-`Switching`
-
-`Packets`
-
-`Traffic Analysis`
+Protocols, traffic analysis, routing, switching, DNS and network behavior.
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## `🛡️ SECURITY.LAB`
+## 🛡️ `SECURITY.LAB`
 
-Building practical cybersecurity knowledge through controlled environments.
-
-**Focus**
-
-`Reconnaissance`
-
-`Enumeration`
-
-`Web Security`
-
-`Linux Security`
-
-`Network Security`
+Controlled cybersecurity experimentation and practical security learning.
 
 </td>
 
 <td width="50%" valign="top">
 
-## `🚩 CTF.LAB`
+## 🚩 `CTF.PRACTICE`
 
-Solving problems by thinking differently.
-
-**Focus**
-
-`Enumeration`
-
-`Web`
-
-`Linux`
-
-`Networking`
-
-`Logic`
-
-`Problem Solving`
+Enumeration, web challenges, Linux challenges, networking and problem solving.
 
 </td>
+
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🐍 `PYTHON.TOOLS`
+
+Automation, scripting and small utilities built while learning.
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔬 `SECURITY.RESEARCH`
+
+Understanding how systems behave, where they fail and how they can become more resilient.
+
+</td>
+
+</tr>
+
 </table>
 
 ---
 
-# `09 // SECURITY.MINDSET`
-
-<div align="center">
-
-```text
-┌────────────┐     ┌────────────┐     ┌────────────┐
-│   OBSERVE  │ ──► │  QUESTION  │ ──► │  RESEARCH  │
-└────────────┘     └────────────┘     └────────────┘
-                                             │
-                                             ▼
-┌────────────┐     ┌────────────┐     ┌────────────┐
-│   IMPROVE  │ ◄── │   ANALYZE  │ ◄── │ EXPERIMENT │
-└────────────┘     └────────────┘     └────────────┘
-```
-
-</div>
-
-### `RULE.ZERO`
-
-> **Never confuse tool usage with understanding.**
-
-Knowing Nmap doesn't automatically mean understanding networking.
-
-Knowing Linux commands doesn't automatically mean understanding Linux.
-
-Knowing a vulnerability doesn't automatically mean understanding why it exists.
-
-**The real skill is understanding the system underneath the tool.**
-
----
-
-# `10 // CURRENT.OPERATIONS`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=1900&pause=500&color=00FF9D&center=true&vCenter=true&width=900&lines=%5B+OPERATION+01+%5D+LINUX+FOUNDATIONS;%5B+OPERATION+02+%5D+NETWORK+ANALYSIS;%5B+OPERATION+03+%5D+CYBERSECURITY+LABS;%5B+OPERATION+04+%5D+PYTHON+AUTOMATION;%5B+OPERATION+05+%5D+CTF+PRACTICE" alt="Current Operations">
-
-</div>
-
-```text
-OPERATION STATUS
-──────────────────────────────────────────────
-
-[✓] Linux fundamentals
-[✓] Networking foundations
-[✓] Cybersecurity concepts
-[✓] Hands-on laboratories
-
-[>] Python development
-[>] Network analysis
-[>] CTF methodology
-[>] Security experimentation
-
-[~] Advanced security research
-[~] Automation
-[~] Deeper system analysis
-```
-
----
-
-# `11 // PROJECT.DIRECTION`
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-## `01`
-
-### `BUILD`
-
-Create practical projects.
-
-</td>
-
-<td align="center" width="33%">
-
-## `02`
-
-### `BREAK`
-
-Test assumptions.
-
-</td>
-
-<td align="center" width="33%">
-
-## `03`
-
-### `UNDERSTAND`
-
-Extract the knowledge.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### `THE OBJECTIVE`
-
-**Not more tools.**
-
-**Not more buzzwords.**
-
-**More understanding.**
-
-</div>
-
----
-
-# `12 // GITHUB.TELEMETRY`
+# `09 // GITHUB.TELEMETRY`
 
 <div align="center">
 
@@ -575,182 +416,114 @@ Extract the knowledge.
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Kalilinuxmohammad&theme=dark&hide_border=true&background=050505&ring=00FF9D&fire=00E5FF&currStreakLabel=00FF9D&sideLabels=00E5FF&dates=777777" width="72%">
+<img src="https://streak-stats.demolab.com?user=Kalilinuxmohammad&theme=dark&hide_border=true&background=050505&ring=00FF9D&fire=00E5FF&currStreakLabel=00FF9D&sideLabels=00E5FF&dates=777777" width="70%">
 
 </div>
 
 ---
 
-# `13 // ACTIVITY.MONITOR`
+# `10 // ACTIVITY.SIGNAL`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=050505&color=00FF9D&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="96%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=050505&color=00FF9D&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="95%">
 
 </div>
 
 ---
 
-# `14 // ROADMAP`
+# `11 // ROAD.AHEAD`
 
 ```text
-                         CURRENT
-                            │
-                            ▼
-                    ┌──────────────┐
-                    │     LINUX    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │  NETWORKING  │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │ CYBERSECURITY│
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │    PYTHON    │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │     CTF      │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   RESEARCH   │
-                    └──────┬───────┘
-                           │
-                           ▼
-                    ┌──────────────┐
-                    │   MASTERY    │
-                    └──────────────┘
+LINUX
+  ↓
+NETWORKING
+  ↓
+CYBERSECURITY
+  ↓
+PYTHON & AUTOMATION
+  ↓
+CTF & PRACTICAL SECURITY
+  ↓
+DEEPER SYSTEM ANALYSIS
+  ↓
+RESEARCH
 ```
-
----
-
-# `15 // CYBER.PHILOSOPHY`
 
 <div align="center">
 
-### `01`
+### `THE GOAL`
 
-> **Learn the fundamentals.**
+**Not just knowing more tools.**
 
-### `02`
-
-> **Question the assumptions.**
-
-### `03`
-
-> **Test everything safely.**
-
-### `04`
-
-> **Understand the failure.**
-
-### `05`
-
-> **Build something better.**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=2200&pause=600&color=00FF9D&center=true&vCenter=true&width=900&lines=LEARN+%E2%86%92+BUILD+%E2%86%92+BREAK+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE;%3E+THE+SYSTEM+IS+THE+TEACHER" alt="Cyber Philosophy">
+**Understanding systems at a deeper level.**
 
 </div>
 
 ---
 
-# `16 // SYSTEM.STATUS`
+# `12 // SYSTEM.STATUS`
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                    M A   C Y B E R   C O R E                ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  IDENTITY       :: MOHAMMAD AMIN                             ║
-║  ROLE           :: CYBERSECURITY STUDENT                     ║
-║  SYSTEM         :: LINUX                                     ║
-║  NETWORK        :: ACTIVE                                    ║
-║  SECURITY       :: ACTIVE                                    ║
-║  LABS           :: RUNNING                                   ║
-║  CTF            :: READY                                     ║
-║  CURIOSITY      :: UNLIMITED                                 ║
-║  MISSION        :: UNDERSTAND SYSTEMS                        ║
-║  STATUS         :: ONLINE                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                  MA // CYBER CORE                    ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  SYSTEM       :: ONLINE                              ║
+║  MODE         :: LEARNING                            ║
+║  ENVIRONMENT  :: LINUX                               ║
+║  NETWORK      :: CONNECTED                           ║
+║  SECURITY     :: ACTIVE                              ║
+║  CURIOSITY    :: UNLIMITED                           ║
+║  MISSION      :: KEEP LEARNING                       ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF9D?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/SECURITY-ACTIVE-00E5FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/LABS-RUNNING-39FF14?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/MISSION-LEARNING-7C3AED?style=for-the-badge&labelColor=050505">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=600&color=00FF9D&center=true&vCenter=true&width=800&lines=%3E+NO+SHORTCUTS;%3E+NO+FAKE+EXPERTISE;%3E+JUST+LEARNING+%2B+PRACTICE+%2B+PERSISTENCE" alt="System Status">
 
 </div>
 
 ---
 
-# `17 // FINAL.TRANSMISSION`
+# `13 // FINAL.TRANSMISSION`
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,20:00110d,45:00352a,70:00E5FF,100:7C3AED&height=150&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:00110d,70:00352a,100:00FF9D&height=130&section=footer" width="100%">
+
+### `I'M NOT INTERESTED IN LOOKING LIKE A HACKER.`
+
+# `I'M INTERESTED IN UNDERSTANDING SYSTEMS LIKE ONE.`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=23&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=1000&lines=I'M+NOT+TRYING+TO+LOOK+LIKE+A+HACKER.;I'M+TRYING+TO+UNDERSTAND+SYSTEMS.;SYSTEMS+ARE+MEANT+TO+BE+UNDERSTOOD." alt="Final Transmission">
+```text
+[ LEARN ]
+     ↓
+[ BUILD ]
+     ↓
+[ BREAK ]
+     ↓
+[ ANALYZE ]
+     ↓
+[ IMPROVE ]
+```
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=MOHAMMAD+AMIN;%3E+CYBERSECURITY+STUDENT;%3E+SYSTEMS+ARE+MEANT+TO+BE+UNDERSTOOD." alt="Final Transmission">
 
 <br><br>
 
-```text
-                    ┌───────────────┐
-                    │     LEARN     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BUILD     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │     BREAK     │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    ANALYZE    │
-                    └───────┬───────┘
-                            ↓
-                    ┌───────────────┐
-                    │    IMPROVE    │
-                    └───────────────┘
-```
-
-<br>
-
-### `MOHAMMAD AMIN`
-
-`CYBERSECURITY STUDENT` • `LINUX` • `NETWORKING` • `CTF`
-
-<br>
-
-<img src="https://img.shields.io/badge/MA-CYBER_CORE-00FF9D?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=050505">
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF9D?style=for-the-badge">
+<img src="https://img.shields.io/badge/SIGNAL-ACTIVE-00E5FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/MISSION-KEEP_LEARNING-7C3AED?style=for-the-badge">
 
 <br><br>
 
-`████████████████████████████████████████████████████████████`
-
-<br>
-
-**`LEARN • BUILD • BREAK • ANALYZE • IMPROVE`**
+`MA // CYBER CORE`
 
 </div>
