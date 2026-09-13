@@ -1,444 +1,851 @@
 <div align="center">
 
 <img src="./ma-cyber-core.svg" width="100%" alt="MA Cyber Identity">
-<br>
+<br> 
+# `M A  //  CYBER CORE`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=00FF9D&center=true&vCenter=true&width=900&lines=%3E+SYSTEM+STATUS%3A+ONLINE;%3E+CYBERSECURITY+ENVIRONMENT+READY;%3E+LINUX+%7C+NETWORKING+%7C+SECURITY+%7C+CTF;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE" alt="Typing Animation">
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Kalilinuxmohammad&label=PROFILE%20VIEWS&color=00ff9d&style=for-the-badge" alt="Profile Views">
-<img src="https://img.shields.io/github/followers/Kalilinuxmohammad?label=FOLLOWERS&style=for-the-badge&color=00e5ff&labelColor=0d1117" alt="Followers">
-<img src="https://img.shields.io/github/stars/Kalilinuxmohammad?label=STARS&style=for-the-badge&color=a855f7&labelColor=0d1117" alt="Stars">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&repeat=true&width=850&height=55&lines=%3E+INITIALIZING+MOHAMMAD+AMIN...;%3E+SYSTEM+STATUS%3A+ONLINE;%3E+LOADING+CYBERSECURITY+ENVIRONMENT...;%3E+LINUX+%7C+NETWORKING+%7C+CTF+%7C+SECURITY;%3E+LEARN+%E2%86%92+BUILD+%E2%86%92+ANALYZE+%E2%86%92+IMPROVE" alt="Typing SVG" />
 
-<br><br>
 
-<h1>⚡ MOHAMMAD AMIN ⚡</h1>
 
-<h3>CYBERSECURITY STUDENT • LINUX • NETWORKING • CTF</h3>
+<br/>
 
-<p>
-I’m Mohammad Amin — a cybersecurity student who enjoys going beneath the surface,
-understanding how systems actually work, breaking things safely,
-and turning every failure into a better understanding.
-</p>
+
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-050807?style=for-the-badge&labelColor=000000&color=00ff9d"/>
+
+<img src="https://img.shields.io/badge/SECURITY-LEARNING-050807?style=for-the-badge&labelColor=000000&color=00eaff"/>
+
+<img src="https://img.shields.io/badge/OS-LINUX-050807?style=for-the-badge&labelColor=000000&color=00ff9d"/>
+
+<img src="https://img.shields.io/badge/MODE-BUILDING-050807?style=for-the-badge&labelColor=000000&color=00eaff"/>
+
+
 
 </div>
 
----
 
-## `01 // SYSTEM.IDENTITY`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👤 WHO AM I?
-
-**NAME**  
-`MOHAMMAD AMIN`
-
-**ROLE**  
-`CYBERSECURITY STUDENT`
-
-**INTERESTS**  
-`LINUX • NETWORKING • CYBERSECURITY`
-
-**PRACTICE**  
-`CTF • LABS • PROJECTS • RESEARCH`
-
-**MINDSET**  
-`CURIOSITY → EXPERIMENT → ANALYSIS`
-
-I’m building my cybersecurity knowledge through hands-on
-practice rather than only theory.
-
-I like understanding what happens **behind the interface**:
-how systems communicate, how networks behave, how software
-can fail, and how security can be improved.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 PERSONAL INTRO
-
-> **I don't want to simply use technology.**
->
-> **I want to understand it.**
->
-> I learn by opening the system,
-> tracing the process,
-> experimenting with it,
-> breaking it in controlled environments,
-> analyzing what happened,
-> and rebuilding it better.
-
-<br>
-
-### ⚙️ CURRENT MODE
-
-`[██████████████████░░] 90%`
-
-**STATUS:** `LEARNING`
-
-**ENVIRONMENT:** `LINUX`
-
-**MISSION:** `UNDERSTAND • BUILD • IMPROVE`
-
-</td>
-</tr>
-</table>
 
 ---
 
-## `02 // RAVIN.ACADEMY`
+
 
 <div align="center">
 
-<img src="./Ravin500.webp" width="170" alt="Ravin Academy">
 
-<br>
 
-### `RAVIN ACADEMY`
+```text
 
-**CYBERSECURITY STUDENT**
+╔══════════════════════════════════════════════════════════════╗
 
-`LEARNING • PRACTICE • LABS • GROWTH`
+║                                                              ║
+
+║                 ███╗   ███╗ █████╗                           ║
+
+║                 ████╗ ████║██╔══██╗                          ║
+
+║                 ██╔████╔██║███████║                          ║
+
+║                 ██║╚██╔╝██║██╔══██║                          ║
+
+║                 ██║ ╚═╝ ██║██║  ██║                          ║
+
+║                 ╚═╝     ╚═╝╚═╝  ╚═╝                          ║
+
+║                                                              ║
+
+║                   CYBERSECURITY NODE                         ║
+
+║                                                              ║
+
+╚══════════════════════════════════════════════════════════════╝
+
+```
+
+
 
 </div>
 
-> 🎓 I’m currently a **student at Ravin Academy**, developing my technical foundations through structured learning and hands-on practice.
+
+
+# 🟢 `SYSTEM.IDENTITY`
+
+
+
+```text
+
+┌──────────────────────────────────────────────────────────────┐
+
+│                                                              │
+
+│   USER        :: MOHAMMAD AMIN                              │
+
+│   ROLE        :: CYBERSECURITY STUDENT                      │
+
+│   ENVIRONMENT :: GNU/LINUX                                  │
+
+│   FOCUS       :: SECURITY / NETWORKING / CTF                │
+
+│   STATUS      :: ONLINE                                     │
+
+│                                                              │
+
+└──────────────────────────────────────────────────────────────┘
+
+```
+
+
+
+```bash
+
+$ whoami
+
+Mohammad Amin
+
+
+
+$ echo $FOCUS
+
+Cybersecurity | Linux | Networking | CTF
+
+
+
+$ echo $MISSION
+
+Learn -> Build -> Analyze -> Improve
+
+
+
+$ systemctl status future
+
+
+
+● future.service
+
+     Loaded: learning enabled
+
+     Active: building...
+
+```
+
+
 
 ---
 
-## `03 // CYBER.DNA`
+
+
+# ⚡ `CYBER.DOMAIN`
+
+
+
+<div align="center">
+
+
 
 <table>
+
 <tr>
+
 <td align="center" width="25%">
 
-### 🐧
+
+
+## 🐧
+
+
+
 ### LINUX
 
-`SYSTEMS`
 
-Terminal  
-Permissions  
-Processes  
-Services  
-Administration
+
+`CLI`
+
+
+
+`Bash`
+
+
+
+`Processes`
+
+
+
+`Permissions`
+
+
+
+`Filesystem`
+
+
 
 </td>
 
+
+
 <td align="center" width="25%">
 
-### 🌐
-### NETWORKING
 
-`INFRASTRUCTURE`
 
-TCP/IP  
-Routing  
-Switching  
-DNS  
-Network Analysis
+## 🌐
+
+
+
+### NETWORK
+
+
+
+`TCP/IP`
+
+
+
+`DNS`
+
+
+
+`Routing`
+
+
+
+`Switching`
+
+
+
+`Packets`
+
+
 
 </td>
 
+
+
 <td align="center" width="25%">
 
-### 🛡️
+
+
+## 🛡️
+
+
+
 ### SECURITY
 
-`DEFENSE`
 
-Web Security  
-Recon  
-Enumeration  
-Analysis  
-Security Labs
+
+`Recon`
+
+
+
+`Enumeration`
+
+
+
+`Web Security`
+
+
+
+`Analysis`
+
+
+
+`Labs`
+
+
 
 </td>
+
+
 
 <td align="center" width="25%">
 
-### 🚩
+
+
+## 🚩
+
+
+
 ### CTF
 
-`PRACTICE`
 
-Enumeration  
-Web  
-Linux  
-Networking  
-Problem Solving
+
+`Web`
+
+
+
+`Linux`
+
+
+
+`Network`
+
+
+
+`Logic`
+
+
+
+`Problem Solving`
+
+
 
 </td>
+
 </tr>
+
 </table>
 
----
 
-## `04 // THE.MINDSET`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### 🔬 THINK DEEP
-
-Don't memorize commands.
-
-**Understand why they work.**
-
-</td>
-
-<td align="center">
-
-### 🧪 BUILD REAL
-
-Theory becomes valuable
-
-**when it survives practice.**
-
-</td>
-
-<td align="center">
-
-### 💥 BREAK SAFELY
-
-Controlled failure
-
-**creates real understanding.**
-
-</td>
-</tr>
-</table>
-
-<br>
-
-`OBSERVE` → `QUESTION` → `EXPERIMENT` → `BREAK` → `ANALYZE` → `BUILD`
 
 </div>
 
+
+
 ---
 
-## `05 // TECH.ARSENAL`
+
+
+# 🧠 `MA // CYBER ARCHITECTURE`
+
+
+
+```text
+
+                              ┌───────────────┐
+
+                              │      MA       │
+
+                              │  CYBER CORE   │
+
+                              └───────┬───────┘
+
+                                      │
+
+                   ┌──────────────────┼──────────────────┐
+
+                   │                  │                  │
+
+                   ▼                  ▼                  ▼
+
+
+
+             ┌──────────┐       ┌──────────┐       ┌──────────┐
+
+             │  LINUX   │       │ NETWORK  │       │ SECURITY │
+
+             └────┬─────┘       └────┬─────┘       └────┬─────┘
+
+                  │                  │                  │
+
+                  └──────────────────┼──────────────────┘
+
+                                     │
+
+                                     ▼
+
+                              ┌─────────────┐
+
+                              │     CTF     │
+
+                              └──────┬──────┘
+
+                                     │
+
+                                     ▼
+
+                              ┌─────────────┐
+
+                              │   PROJECTS  │
+
+                              └─────────────┘
+
+```
+
+
+
+---
+
+
+
+# 🧰 `TOOLCHAIN`
+
+
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,html,css,vscode&theme=dark" alt="Technology Stack">
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff9d" alt="Linux">
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=557C94" alt="Kali Linux">
-<img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=00e5ff" alt="Cisco">
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00ff9d" alt="Nmap">
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00e5ff" alt="Wireshark">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,docker,html,css,vscode&theme=dark" />
+
+
+
+<br/><br/>
+
+
+
+<img src="https://img.shields.io/badge/KALI_LINUX-050807?style=for-the-badge&logo=kalilinux&logoColor=00eaff&labelColor=000000&color=00eaff"/>
+
+
+
+<img src="https://img.shields.io/badge/PYTHON-050807?style=for-the-badge&logo=python&logoColor=00ff9d&labelColor=000000&color=00ff9d"/>
+
+
+
+<img src="https://img.shields.io/badge/GIT-050807?style=for-the-badge&logo=git&logoColor=00eaff&labelColor=000000&color=00eaff"/>
+
+
+
+<img src="https://img.shields.io/badge/GITHUB-050807?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=000000&color=00ff9d"/>
+
+
+
+<img src="https://img.shields.io/badge/NMAP-050807?style=for-the-badge&labelColor=000000&color=00ff9d"/>
+
+
+
+<img src="https://img.shields.io/badge/WIRESHARK-050807?style=for-the-badge&logo=wireshark&logoColor=00eaff&labelColor=000000&color=00eaff"/>
+
+
 
 </div>
 
----
 
-## `06 // CURRENTLY.IN.LAB`
-
-<table>
-<tr>
-<td>
-
-`01` 🐧 **Linux**
-
-Building stronger command-line and system fundamentals.
-
-</td>
-<td>
-
-`02` 🌐 **Networking**
-
-Understanding protocols, traffic and infrastructure.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-`03` 🛡️ **Cybersecurity**
-
-Exploring security concepts through practical labs.
-
-</td>
-<td>
-
-`04` 🐍 **Python**
-
-Building small tools and automation projects.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-`05` 🚩 **CTF**
-
-Improving enumeration, analysis and problem-solving.
-
-</td>
-<td>
-
-`06` 🧰 **Projects**
-
-Turning knowledge into things that actually work.
-
-</td>
-</tr>
-</table>
 
 ---
 
-## `07 // LEARNING.ENGINE`
+
+
+# ⚙️ `OPERATION.PROTOCOL`
+
+
+
+```text
+
+╭────────────────────────────────────────────────────────────╮
+
+│                                                            │
+
+│  [01]  DISCOVER                                            │
+
+│              ↓                                             │
+
+│  [02]  ENUMERATE                                           │
+
+│              ↓                                             │
+
+│  [03]  ANALYZE                                             │
+
+│              ↓                                             │
+
+│  [04]  UNDERSTAND                                          │
+
+│              ↓                                             │
+
+│  [05]  BUILD                                               │
+
+│              ↓                                             │
+
+│  [06]  IMPROVE                                             │
+
+│                                                            │
+
+╰────────────────────────────────────────────────────────────╯
+
+```
+
+
+
+> **I don't just want to run tools.**
+
+> **I want to understand what happens underneath them.**
+
+
+
+---
+
+
+
+# 🚩 `CTF.MODE`
+
+
+
+```text
+
+[ SYSTEM BOOT ]
+
+
+
+> loading challenge environment...
+
+
+
+████████████████████ 100%
+
+
+
+[✓] RECON
+
+[✓] ENUMERATION
+
+[✓] ANALYSIS
+
+[✓] TESTING
+
+[✓] PROBLEM SOLVING
+
+
+
+STATUS: ACTIVE
+
+```
+
+
+
+Current practice areas:
+
+
+
+```text
+
+┌──────────────────────────────┐
+
+│  WEB SECURITY                │
+
+├──────────────────────────────┤
+
+│  LINUX CHALLENGES            │
+
+├──────────────────────────────┤
+
+│  NETWORK CHALLENGES          │
+
+├──────────────────────────────┤
+
+│  ENUMERATION                 │
+
+├──────────────────────────────┤
+
+│  RECONNAISSANCE              │
+
+└──────────────────────────────┘
+
+```
+
+
+
+---
+
+
+
+# 🌐 `NETWORK.CORE`
+
+
+
+```text
+
+                       INTERNET
+
+                           │
+
+                           ▼
+
+                    ┌─────────────┐
+
+                    │   NETWORK   │
+
+                    └──────┬──────┘
+
+                           │
+
+            ┌──────────────┼──────────────┐
+
+            │              │              │
+
+            ▼              ▼              ▼
+
+         TCP/IP           DNS          ROUTING
+
+            │              │              │
+
+            └──────────────┼──────────────┘
+
+                           │
+
+                           ▼
+
+                    PACKET ANALYSIS
+
+                           │
+
+                           ▼
+
+                     UNDERSTANDING
+
+```
+
+
+
+---
+
+
+
+# 📊 `GITHUB.TELEMETRY`
+
+
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>01</b><br>DISCOVER</td>
-<td>→</td>
-<td align="center"><b>02</b><br>DIG</td>
-<td>→</td>
-<td align="center"><b>03</b><br>BREAK</td>
-<td>→</td>
-<td align="center"><b>04</b><br>ANALYZE</td>
-<td>→</td>
-<td align="center"><b>05</b><br>BUILD</td>
-</tr>
-</table>
 
-<br>
 
-`LEARN → BUILD → ANALYZE → IMPROVE`
+<img src="https://github-readme-stats.vercel.app/api?username=Kalilinuxmohammad&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9d&text_color=b9ffe1&icon_color=00eaff&ring_color=00ff9d" width="49%" />
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalilinuxmohammad&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9d&text_color=b9ffe1" width="42%" />
+
+
+
+<br/><br/>
+
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalilinuxmohammad&hide_border=true&background=000000&ring=00ff9d&fire=00eaff&currStreakLabel=00ff9d&sideLabels=b9ffe1&dates=638c7b" width="55%" />
+
+
 
 </div>
 
----
 
-## `08 // PROJECT.ZONE`
+
+<br/>
+
+
 
 <div align="center">
 
-| AREA | MISSION |
-|---|---|
-| 🐧 **Linux Lab** | System administration, shell work & experimentation |
-| 🌐 **Network Lab** | Networking, protocols, routing & traffic analysis |
-| 🛡️ **Security Lab** | Controlled cybersecurity experimentation |
-| 🚩 **CTF Practice** | Challenges, enumeration & problem solving |
-| 🐍 **Python Tools** | Automation, utilities & security-focused scripts |
-| 🔬 **Security Research** | Learning how systems behave and fail |
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=000000&color=00ff9d&line=00ff9d&point=00eaff&area=true&hide_border=true" width="100%" />
+
+
 
 </div>
 
+
+
 ---
 
-## `09 // GITHUB.TELEMETRY`
+
+
+# 🛰️ `LIVE.SYSTEM.LOG`
+
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kalilinuxmohammad&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00e5ff&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kalilinuxmohammad&hide_border=true&background=0d1117&ring=00ff9d&fire=00e5ff&currStreakLabel=00ff9d&sideLabels=00e5ff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" width="49%" alt="GitHub Streak">
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&repeat=true&width=900&lines=%5B+SYSTEM+%5D+Scanning+new+knowledge...;%5B+LINUX+%5D+Environment+ready.;%5B+NETWORK+%5D+Packets+understood.;%5B+SECURITY+%5D+Learning+never+stops.;%5B+MA+CORE+%5D+Status%3A+BUILDING+THE+FUTURE." alt="System Log" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kalilinuxmohammad&bg_color=0d1117&color=00ff9d&line=00e5ff&point=a855f7&area=true&hide_border=true" width="96%" alt="Contribution Graph">
+
 
 </div>
 
+
+
 ---
 
-## `10 // ROAD.AHEAD`
+
+
+# 🎓 `EDUCATION.NODE`
+
+
 
 <div align="center">
 
-`LINUX`  
-↓  
-`NETWORKING`  
-↓  
-`CYBERSECURITY`  
-↓  
-`PYTHON & AUTOMATION`  
-↓  
-`CTF & PRACTICAL SECURITY`  
-↓  
-`DEEPER RESEARCH`
 
-<br><br>
 
-### 🚀 THE GOAL
+```text
 
-**Not just knowing more tools.**
+╔═══════════════════════════════════════════════════════╗
 
-**Understanding systems at a deeper level.**
+║                                                       ║
+
+║                 EDUCATION NODE                        ║
+
+║                                                       ║
+
+║                   RAVIN ACADEMY                       ║
+
+║                                                       ║
+
+║              ROLE :: STUDENT                          ║
+
+║              FIELD :: CYBERSECURITY                   ║
+
+║                                                       ║
+
+╚═══════════════════════════════════════════════════════╝
+
+```
+
+
+
+### `CYBERSECURITY STUDENT`
+
+
 
 </div>
 
+
+
+> Ravin Academy is part of my learning journey and educational background.
+
+
+
 ---
 
-## `11 // CONNECT`
+
+
+# 🎯 `CURRENT.DIRECTIVE`
+
+
+
+```text
+
+[01] ████████████████████ Linux Fundamentals
+
+
+
+[02] █████████████████░░░ Networking
+
+
+
+[03] ███████████████░░░░░ Cybersecurity
+
+
+
+[04] █████████████░░░░░░░ CTF Practice
+
+
+
+[05] ██████████░░░░░░░░░░ Python & Automation
+
+
+
+[06] ████████░░░░░░░░░░░░ Security Projects
+
+
+
+[07] █████████████████████ Documentation
+
+```
+
+
+
+---
+
+
+
+# 🧬 `OPERATING.PHILOSOPHY`
+
+
 
 <div align="center">
+
+
+
+```text
+
+╔════════════════════════════════════════════════════════════╗
+
+║                                                            ║
+
+║                 LEARN THE SYSTEM                           ║
+
+║                        ↓                                   ║
+
+║                 UNDERSTAND IT                              ║
+
+║                        ↓                                   ║
+
+║                 BUILD SOMETHING                            ║
+
+║                        ↓                                   ║
+
+║                 BREAK IT SAFELY                            ║
+
+║                        ↓                                   ║
+
+║                 ANALYZE THE RESULT                         ║
+
+║                        ↓                                   ║
+
+║                 COME BACK STRONGER                         ║
+
+║                                                            ║
+
+╚════════════════════════════════════════════════════════════╝
+
+```
+
+
+
+## `LEARN. BUILD. ANALYZE. IMPROVE.`
+
+
+
+</div>
+
+
+
+---
+
+
+
+<div align="center">
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:003b2b,100:000000&height=130&section=footer&text=MA%20%2F%2F%20SYSTEM%20ONLINE&fontSize=30&fontColor=00ff9d&animation=twinkling&fontAlignY=45&desc=CYBERSECURITY%20%E2%80%A2%20LINUX%20%E2%80%A2%20NETWORKING%20%E2%80%A2%20CTF&descAlignY=70&descSize=14&descColor=00eaff" width="100%"/>
+
+
+
+<br/>
+
+
 
 <a href="https://github.com/Kalilinuxmohammad">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+
+<img src="https://img.shields.io/badge/GITHUB-Kalilinuxmohammad-000000?style=for-the-badge&logo=github&logoColor=00ff9d&labelColor=000000&color=00ff9d"/>
+
 </a>
 
-<a href="https://kalilinuxmohammad.github.io">
-<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" alt="Portfolio">
+
+
+<a href="https://kalilinuxmohammad.github.io/">
+
+<img src="https://img.shields.io/badge/WEBSITE-ONLINE-000000?style=for-the-badge&logo=googlechrome&logoColor=00eaff&labelColor=000000&color=00eaff"/>
+
 </a>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/CYBERSECURITY-00ff9d?style=for-the-badge&labelColor=0d1117" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/LINUX-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Linux">
-<img src="https://img.shields.io/badge/NETWORKING-a855f7?style=for-the-badge&labelColor=0d1117" alt="Networking">
-<img src="https://img.shields.io/badge/CTF-ff3b81?style=for-the-badge&labelColor=0d1117" alt="CTF">
 
-</div>
+<br/><br/>
 
----
 
-<div align="center">
 
-## `12 // FINAL.TRANSMISSION`
+```text
 
-<br>
+MA // CYBER CORE
 
-<h2>
-I'M NOT INTERESTED IN LOOKING LIKE A HACKER.
-</h2>
+STATUS :: ONLINE
 
-<h3>
-I'M INTERESTED IN UNDERSTANDING SYSTEMS LIKE ONE.
-</h3>
+SIGNAL :: ACTIVE
 
-<br>
+MISSION :: KEEP LEARNING
 
-`[ LEARN ]` → `[ BUILD ]` → `[ BREAK ]` → `[ ANALYZE ]` → `[ IMPROVE ]`
+```
 
-<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=16&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=850&lines=%3E+KEEP+LEARNING.;%3E+KEEP+BUILDING.;%3E+KEEP+BREAKING+SAFELY.;%3E+KEEP+IMPROVING.;%3E+SYSTEM+UNDERSTANDING+%3E+TOOL+COLLECTION" alt="Final Typing Animation">
-
-<br><br>
-
-`SYSTEM STATUS :: ONLINE`
-<br>
-`CYBERSECURITY ENVIRONMENT :: READY`
-<br>
-`MISSION :: UNDERSTAND • BUILD • IMPROVE`
 
 </div>
