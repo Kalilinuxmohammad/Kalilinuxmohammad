@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 650">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="75%">
+      <stop offset="0%" stop-color="#0a1420"/>
+      <stop offset="60%" stop-color="#050b12"/>
+      <stop offset="100%" stop-color="#02060a"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00e5c7"/>
+      <stop offset="100%" stop-color="#4f8dff"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5c7" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#4f8dff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#00e5c7" stop-opacity="0.9"/>
+    </linearGradient>
+    <filter id="glow" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSm" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#123044"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="650" rx="16" fill="url(#bg)"/>
+  <rect width="1600" height="650" rx="16" fill="url(#dots)" opacity="0.6"/>
+  <rect x="3" y="3" width="1594" height="644" rx="14" fill="none" stroke="url(#borderGrad)" stroke-width="1.6"/>
+
+  <text x="52" y="66" font-family="Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#dff7f1" letter-spacing="3">MA</text>
+  <text x="90" y="66" font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#6fa6a0" letter-spacing="2">/ CYBERSECURITY IDENTITY</text>
+
+  <g transform="translate(1500,58)">
+    <circle r="4.5" fill="#00e5c7">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="1488" y="63" font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#7fd9cc" text-anchor="end" letter-spacing="2">ONLINE</text>
+
+  <line x1="52" y1="88" x2="1548" y2="88" stroke="#123044" stroke-width="1.2"/>
+
+  <g transform="translate(120,205)">
+    <rect x="0" y="0" width="176" height="56" rx="28" fill="#081420" stroke="#1c4a52" stroke-width="1.4"/>
+    <circle cx="28" cy="28" r="12" fill="none" stroke="#00e5c7" stroke-width="2"/>
+    <text x="28" y="33" font-family="Helvetica, Arial" font-size="14" fill="#00e5c7" text-anchor="middle" font-weight="700">Lx</text>
+    <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#eafffb" letter-spacing="1">LINUX</text>
+    <text x="54" y="42" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5f9088" letter-spacing="0.5">KALI · BASH · CLI</text>
+  </g>
+
+  <g transform="translate(1304,205)">
+    <rect x="0" y="0" width="176" height="56" rx="28" fill="#081420" stroke="#1c4a52" stroke-width="1.4"/>
+    <circle cx="28" cy="20" r="4" fill="#4f8dff"/>
+    <circle cx="18" cy="36" r="4" fill="#4f8dff"/>
+    <circle cx="38" cy="36" r="4" fill="#4f8dff"/>
+    <path d="M28 20 L18 36 M28 20 L38 36 M18 36 L38 36" stroke="#4f8dff" stroke-width="1.6"/>
+    <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#eafffb" letter-spacing="1">NETWORK</text>
+    <text x="54" y="42" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5f9088" letter-spacing="0.5">TCP/IP · DNS · TRAFFIC</text>
+  </g>
+
+  <g transform="translate(120,392)">
+    <rect x="0" y="0" width="176" height="56" rx="28" fill="#081420" stroke="#1c4a52" stroke-width="1.4"/>
+    <path d="M28 14 L40 19 V29 C40 37 35 41 28 43 C21 41 16 37 16 29 V19 Z" fill="none" stroke="#00e5c7" stroke-width="2"/>
+    <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#eafffb" letter-spacing="1">SECURITY</text>
+    <text x="54" y="42" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5f9088" letter-spacing="0.5">RECON · WEB · ANALYSIS</text>
+  </g>
+
+  <g transform="translate(1304,392)">
+    <rect x="0" y="0" width="176" height="56" rx="28" fill="#081420" stroke="#1c4a52" stroke-width="1.4"/>
+    <path d="M20 14 V42 M20 14 L38 18 L20 24" fill="none" stroke="#4f8dff" stroke-width="2" stroke-linejoin="round"/>
+    <text x="54" y="24" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#eafffb" letter-spacing="1">CTF</text>
+    <text x="54" y="42" font-family="Helvetica, Arial, sans-serif" font-size="11" fill="#5f9088" letter-spacing="0.5">ENUMERATION · LOGIC</text>
+  </g>
+
+  <g stroke="#1c4a52" stroke-width="1.6" fill="none">
+    <path d="M296 233H520V300"/>
+    <path d="M1304 233H1080V300"/>
+    <path d="M296 420H520V360"/>
+    <path d="M1304 420H1080V360"/>
+  </g>
+  <circle r="4" fill="#00e5c7" filter="url(#glowSm)"><animateMotion dur="3s" repeatCount="indefinite" path="M296 233H520V300"/></circle>
+  <circle r="4" fill="#4f8dff" filter="url(#glowSm)"><animateMotion dur="3.4s" repeatCount="indefinite" path="M1304 233H1080V300"/></circle>
+  <circle r="4" fill="#00e5c7" filter="url(#glowSm)"><animateMotion dur="2.7s" repeatCount="indefinite" path="M296 420H520V360"/></circle>
+  <circle r="4" fill="#4f8dff" filter="url(#glowSm)"><animateMotion dur="3.6s" repeatCount="indefinite" path="M1304 420H1080V360"/></circle>
+
+  <g transform="translate(800,326)">
+    <circle r="168" fill="none" stroke="#123044" stroke-width="1.4"/>
+    <circle r="150" fill="none" stroke="url(#accent)" stroke-width="1.6" stroke-dasharray="1 7" opacity="0.85">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="128" fill="none" stroke="#00e5c7" stroke-width="1" opacity="0.4">
+      <animate attributeName="r" values="122;134;122" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;0.15;0.45" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="104" fill="#040c14" stroke="url(#accent)" stroke-width="2.4" filter="url(#glow)"/>
+    <circle r="104" fill="none" stroke="#0d2430" stroke-width="1"/>
+    <text x="0" y="16" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="800" fill="#eefffc" text-anchor="middle" letter-spacing="1">
+      MA
+      <animate attributeName="opacity" values="0.92;1;0.92" dur="3s" repeatCount="indefinite"/>
+    </text>
+    <text x="0" y="44" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#7fd9cc" text-anchor="middle" letter-spacing="3">MOHAMMAD AMIN</text>
+  </g>
+
+  <line x1="700" y1="556" x2="900" y2="556" stroke="url(#accent)" stroke-width="1.4" opacity="0.7"/>
+  <text x="800" y="584" font-family="Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#eefffc" text-anchor="middle" letter-spacing="4">CYBERSECURITY STUDENT</text>
+  <text x="800" y="610" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#5f9088" text-anchor="middle" letter-spacing="2">LEARN &#8594; BUILD &#8594; ANALYZE &#8594; SECURE</text>
+
+  <rect x="0" y="0" width="1600" height="2" fill="#00e5c7" opacity="0.12">
+    <animate attributeName="y" values="0;650;0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
