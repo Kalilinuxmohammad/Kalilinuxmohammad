@@ -101,15 +101,42 @@ can fail, and how security can be improved.
 
 <br>
 
-### `RAVIN ACADEMY`
+## `02 // RAVIN.ACADEMY`
+
+<div align="center">
+
+<img src="./Ravin500.webp" width="220" alt="Ravin Academy Logo">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=700&lines=RAVIN+ACADEMY;CYBERSECURITY+STUDENT;LEARNING+%E2%80%A2+PRACTICE+%E2%80%A2+LABS+%E2%80%A2+GROWTH" alt="Ravin Academy">
+
+<br>
+
+### 🎓 `RAVIN ACADEMY`
 
 **CYBERSECURITY STUDENT**
 
 `LEARNING • PRACTICE • LABS • GROWTH`
 
-</div>
+<br>
 
-> 🎓 I’m currently a **student at Ravin Academy**, developing my technical foundations through structured learning and hands-on practice.
+<table>
+<tr>
+<td align="center">
+
+🎓 **STUDENT AFFILIATION**
+
+<br>
+
+Currently studying and developing
+my cybersecurity foundations at **Ravin Academy**.
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
